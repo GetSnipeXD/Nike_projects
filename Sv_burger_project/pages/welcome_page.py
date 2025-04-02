@@ -36,3 +36,4 @@ class Test_welcome_page :
         sign_in_button.click()
 
 
+print("hello lets go coding")
